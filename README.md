@@ -50,15 +50,11 @@ Install the required libraries before running any script:
 ```bash
 pip install scikit-learn pandas matplotlib
 ```
-```markdown
-> Note: Use `pip3` if `pip` doesn't work on your system.
-```
+> **Note:** Use `pip3` if `pip` doesn't work on your system.
 
 ## Run a script
 
-```markdown
-> Note: Use `python` if `python3` doesn't work on your system.
-```
+> **Note:** Use `python` if `python3` doesn't work on your system.
 
 ```bash 
 python3 naive_bayes_codes.py
