@@ -49,6 +49,10 @@ Install the required libraries before running any script:
 ```bash
 pip install scikit-learn pandas matplotlib
 ```
+```markdown
+> Note: Use `pip3` if `pip` doesn't work on your system.
+```
+
 ## Run a script
 
 ```markdown
