@@ -32,7 +32,7 @@ This repository contains various Python projects using different types of Naive 
 
 ### Bernoulli Naive Bayes
 - `bernoulli_fake_news_detection.py`: Fake news detection using binary features
-- `bernoulli_spam_detecion.py`: Spam email classification
+- `bernoulli_spam_detection.py`: Spam email classification
 - `bernoulli_sms_spam.py`: SMS spam classification using binary word presence
 
 ### Datasets
