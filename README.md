@@ -52,37 +52,37 @@ pip install scikit-learn pandas matplotlib
 ## Run a script
 
 ```bash 
-naive_bayes_codes.py
+python naive_bayes_codes.py
 ```
 ```bash 
-naive_bayes_code_1.py
+python naive_bayes_code_1.py
 ```
 ```bash
-gaussian_iris_classification.py
+python gaussian_iris_classification.py
 ```
 ```bash
-gaussian_weather_classify.py
+python gaussian_weather_classify.py
 ```
 ```bash
-gaussian_breast_cancer.py
+python gaussian_breast_cancer.py
 ```
 ```bash
-multinomial_sentiment_analysis.py
+python multinomial_sentiment_analysis.py
 ```
 ```bash
-multinomial_newsgroup_dataset.py
+python multinomial_newsgroup_dataset.py
 ```
 ```bash
-multinomial_movie_review.py
+python multinomial_movie_review.py
 ```
 ```bash
-bernoulli_fake_news_detection.py
+python bernoulli_fake_news_detection.py
 ```
 ```bash
-bernoulli_spam_detecion.py
+python bernoulli_spam_detecion.py
 ```
 ```bash
-bernoulli_sms_spam.py
+python bernoulli_sms_spam.py
 ```
 
 ## Note
