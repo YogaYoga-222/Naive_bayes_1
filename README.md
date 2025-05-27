@@ -75,6 +75,9 @@ python3 gaussian_weather_classify.py
 python3 gaussian_breast_cancer.py
 ```
 ```bash
+python3 gaussian_annimals_classify.py
+```
+```bash
 python3 multinomial_sentiment_analysis.py
 ```
 ```bash
