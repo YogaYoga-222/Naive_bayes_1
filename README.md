@@ -22,7 +22,8 @@ This repository contains various Python projects using different types of Naive 
 ### Gaussian Naive Bayes
 - `gaussian_iris_classification.py`: Iris flower classification (numeric features)
 - `gaussian_weather_classify.py`: Weather prediction using small numeric dataset
-- `gaussian_breast_cancer.py`: General GaussianNB usage example
+- `gaussian_breast_cancer.py`: Breast cancer prediction with small dataset
+- `gaussian_animal_classify.py`: Simple animal classification using numeric features like number of legs and flying ability
 
 ### Multinomial Naive Bayes
 - `multinomial_movie_review.py`: Sentiment analysis on movie reviews
