@@ -1,5 +1,8 @@
 # Naive Bayes Classifier Projects
 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+
+
 This repository contains various Python projects using different types of Naive Bayes algorithms to solve classification problems with both small and large datasets.
 
 ---
