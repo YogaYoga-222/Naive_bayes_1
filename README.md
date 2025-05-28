@@ -32,11 +32,13 @@ This repository contains various Python projects using different types of Naive 
 - `multinomial_movie_review.py`: Sentiment analysis on movie reviews
 - `multinomial_newsgroup_dataset.py`: News article classification using 20 newsgroups dataset
 - `multinomial_sentiment_analysis.py`: Text classification with word counts
+- `multinomial_amazon_review.py`: Product review star rating classification using TF-IDF
 
 ### Bernoulli Naive Bayes
 - `bernoulli_fake_news_detection.py`: Fake news detection using binary features
 - `bernoulli_spam_detection.py`: Spam email classification
 - `bernoulli_sms_spam.py`: SMS spam classification using binary word presence
+- `bernoulli_click_prediction.py`: Email click prediction based on binary user behavior features
 
 ### Datasets
 - `spam.csv`: Dataset for email spam detection
@@ -87,6 +89,9 @@ python3 multinomial_newsgroup_dataset.py
 python3 multinomial_movie_review.py
 ```
 ```bash
+python3 multinomial_amazon_review.py
+```
+```bash
 python3 bernoulli_fake_news_detection.py
 ```
 ```bash
@@ -94,6 +99,9 @@ python3 bernoulli_spam_detecion.py
 ```
 ```bash
 python3 bernoulli_sms_spam.py
+```
+```bash
+python3 bernoulli_click_prediction.py
 ```
 
 ## Note
